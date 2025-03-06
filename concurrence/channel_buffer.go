@@ -1,6 +1,6 @@
 package main
 
-import "gift/database"
+import "github/lhh-gh/gift/database"
 
 func main4() {
 	ch := make(chan database.Gift, 100)

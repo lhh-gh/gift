@@ -1,0 +1,3 @@
+time="2025-03-05 22:59:51.233" level=info msg="connect to redis 1" func=github/lhh-gh/gift/database.createRedisClient file="D:/code/GO/gift/database/db_connection.go:78"
+time="2025-03-05 22:59:51.263" level=info msg="connect to mysql db gift" func=github/lhh-gh/gift/database.createMysqlDB file="D:/code/GO/gift/database/db_connection.go:49"
+time="2025-03-05 22:59:51.275" level=info msg="clear table orders" func=main.Init file="D:/code/GO/gift/main.go:41"

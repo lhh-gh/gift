@@ -1,0 +1,1 @@
+time="2025-03-06 15:39:03.546" level=info msg="receive signal interrupt, exit" func=main.listenSignal file="D:/code/GO/gift/main.go:27"
